@@ -7,7 +7,7 @@ A web-based ordering and management system project for our BSIT course.
 - Leader: [Name]
 - UI Designer: [Name]
 - Front-end Developer: [Name]
-- Back-end Developer: [Name]
+- Back-end Developer: [CASTILLO,JIM S.]
 - Documentation: [Name]
 
 ## Project Structure
