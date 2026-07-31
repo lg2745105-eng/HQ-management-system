@@ -1,4 +1,4 @@
-# HQ-management-system
+# HQ-management-system - edited by frontend
 BSIT Group Project Repository 
 ## Description
 A web-based ordering and management system project for our BSIT course.
