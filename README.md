@@ -6,7 +6,7 @@ A web-based ordering and management system project for our BSIT course.
 ## Team Members
 - Leader: [Name]
 - UI Designer: [Name]
-- Front-end Developer: [Name]
+- Front-end Developer: [DELIBO, ADRIAN CARL C.]
 - Back-end Developer: [CASTILLO,JIM S.]
 - Documentation: [Name]
 
