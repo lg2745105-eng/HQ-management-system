@@ -1,4 +1,4 @@
-# HQ-management-system
+# HQ-management-system edited by UI-designer
 BSIT Group Project Repository 
 ## Description
 A web-based ordering and management system project for our BSIT course.
@@ -9,6 +9,8 @@ A web-based ordering and management system project for our BSIT course.
 - Front-end Developer: [DELIBO, ADRIAN CARL C.]
 - Back-end Developer: [CASTILLO,JIM S.]
 - Documentation: [Name]
+
+## Project Structure
 - css/ - stylesheets
 - js/ - javascript files
 - images/ - image assets
